@@ -1,0 +1,60 @@
+{
+  "expo": {
+    "name": "BiZY Edo Translator",
+    "slug": "bizy-edo-translator",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "bizy",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1a1a2e"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.bizy.edotranslator",
+      "infoPlist": {
+        "NSMicrophoneUsageDescription": "BiZY uses the microphone for Edo voice translation.",
+        "NSSpeechRecognitionUsageDescription": "BiZY uses speech recognition to convert spoken Edo to text.",
+        "NSCameraUsageDescription": "BiZY uses the camera for profile photos."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#1a1a2e"
+      },
+      "package": "com.bizy.edotranslator",
+      "permissions": [
+        "RECORD_AUDIO",
+        "CAMERA"
+      ]
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "server",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-secure-store",
+      [
+        "expo-font",
+        {
+          "fonts": []
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "your-eas-project-id"
+      }
+    }
+  }
+}

@@ -1,0 +1,1987 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "language": "Edo (Bini)",
+    "total_entries": 500,
+    "created": "2026-04-05",
+    "description": "Comprehensive Edo-English dictionary for the BiZY Edo Translator app",
+    "author": "BiZY Language Data",
+    "license": "proprietary"
+  },
+  "categories": [
+    "greetings",
+    "family",
+    "body",
+    "food",
+    "animals",
+    "nature",
+    "numbers",
+    "colors",
+    "time",
+    "actions",
+    "emotions",
+    "places",
+    "objects",
+    "religion",
+    "proverbs",
+    "phrases"
+  ],
+  "entries": [
+    {
+      "id": 1,
+      "edo": "Ẹdo",
+      "english": "Edo / Bini (the language and people)",
+      "category": "culture",
+      "pronunciation": "eh-doh",
+      "part_of_speech": "noun",
+      "example_edo": "Ẹdo ẹvbo ẹre ọ ya.",
+      "example_english": "He speaks the Edo language.",
+      "premium": false
+    },
+    {
+      "id": 2,
+      "edo": "Ẹdẹ",
+      "english": "Good morning",
+      "category": "greetings",
+      "pronunciation": "eh-deh",
+      "part_of_speech": "phrase",
+      "example_edo": "Ẹdẹ, iran ma.",
+      "example_english": "Good morning, how are you?",
+      "premium": false
+    },
+    {
+      "id": 3,
+      "edo": "Ẹdẹ vbe ẹdẹ",
+      "english": "Good afternoon",
+      "category": "greetings",
+      "pronunciation": "eh-deh vbeh eh-deh",
+      "part_of_speech": "phrase",
+      "example_edo": "Ẹdẹ vbe ẹdẹ, iran?",
+      "example_english": "Good afternoon, how are you?",
+      "premium": false
+    },
+    {
+      "id": 4,
+      "edo": "Ẹdẹ vbe ẹdẹ rua",
+      "english": "Good evening",
+      "category": "greetings",
+      "pronunciation": "eh-deh vbeh eh-deh roo-ah",
+      "part_of_speech": "phrase",
+      "example_edo": "Ẹdẹ vbe ẹdẹ rua, iran?",
+      "example_english": "Good evening, how are you?",
+      "premium": false
+    },
+    {
+      "id": 5,
+      "edo": "Ọse",
+      "english": "Thank you",
+      "category": "greetings",
+      "pronunciation": "oh-seh",
+      "part_of_speech": "phrase",
+      "example_edo": "Ọse iran.",
+      "example_english": "Thank you very much.",
+      "premium": false
+    },
+    {
+      "id": 6,
+      "edo": "Iran ma",
+      "english": "How are you?",
+      "category": "greetings",
+      "pronunciation": "ee-rahn mah",
+      "part_of_speech": "phrase",
+      "example_edo": "Iran ma? Ọ dẹ.",
+      "example_english": "How are you? I am fine.",
+      "premium": false
+    },
+    {
+      "id": 7,
+      "edo": "Ọ dẹ",
+      "english": "I am fine / It is good",
+      "category": "greetings",
+      "pronunciation": "oh deh",
+      "part_of_speech": "phrase",
+      "example_edo": "Iran ma? Ọ dẹ, ọse.",
+      "example_english": "How are you? I am fine, thank you.",
+      "premium": false
+    },
+    {
+      "id": 8,
+      "edo": "Ẹ khuẹn",
+      "english": "Welcome / Come in",
+      "category": "greetings",
+      "pronunciation": "eh kwhen",
+      "part_of_speech": "phrase",
+      "example_edo": "Ẹ khuẹn vbe ẹvbo ẹre.",
+      "example_english": "Welcome to our home.",
+      "premium": false
+    },
+    {
+      "id": 9,
+      "edo": "Kpẹle",
+      "english": "Please / Excuse me",
+      "category": "greetings",
+      "pronunciation": "kpeh-leh",
+      "part_of_speech": "phrase",
+      "example_edo": "Kpẹle, ya miẹ ima.",
+      "example_english": "Please, help me.",
+      "premium": false
+    },
+    {
+      "id": 10,
+      "edo": "Ẹ vbe yẹe",
+      "english": "Goodbye",
+      "category": "greetings",
+      "pronunciation": "eh vbeh yeh-eh",
+      "part_of_speech": "phrase",
+      "example_edo": "Ẹ vbe yẹe, ọse.",
+      "example_english": "Goodbye, thank you.",
+      "premium": false
+    },
+    {
+      "id": 11,
+      "edo": "Ọmwan",
+      "english": "Person / Someone",
+      "category": "people",
+      "pronunciation": "oh-mwahn",
+      "part_of_speech": "noun",
+      "example_edo": "Ọmwan ọ de.",
+      "example_english": "Someone is coming.",
+      "premium": false
+    },
+    {
+      "id": 12,
+      "edo": "Ẹre",
+      "english": "He / She / It",
+      "category": "pronouns",
+      "pronunciation": "eh-reh",
+      "part_of_speech": "pronoun",
+      "example_edo": "Ẹre ọ dẹ.",
+      "example_english": "He/She is fine.",
+      "premium": false
+    },
+    {
+      "id": 13,
+      "edo": "Ima",
+      "english": "We / Us",
+      "category": "pronouns",
+      "pronunciation": "ee-mah",
+      "part_of_speech": "pronoun",
+      "example_edo": "Ima ya.",
+      "example_english": "We are going.",
+      "premium": false
+    },
+    {
+      "id": 14,
+      "edo": "Ọ",
+      "english": "I / Me",
+      "category": "pronouns",
+      "pronunciation": "oh",
+      "part_of_speech": "pronoun",
+      "example_edo": "Ọ gha ya.",
+      "example_english": "I am going.",
+      "premium": false
+    },
+    {
+      "id": 15,
+      "edo": "Ẹyin",
+      "english": "You (plural)",
+      "category": "pronouns",
+      "pronunciation": "eh-yeen",
+      "part_of_speech": "pronoun",
+      "example_edo": "Ẹyin gha ya.",
+      "example_english": "You (all) are going.",
+      "premium": false
+    },
+    {
+      "id": 16,
+      "edo": "Iye",
+      "english": "Mother",
+      "category": "family",
+      "pronunciation": "ee-yeh",
+      "part_of_speech": "noun",
+      "example_edo": "Iye mwẹn ọ dẹ.",
+      "example_english": "My mother is well.",
+      "premium": false
+    },
+    {
+      "id": 17,
+      "edo": "Ọsa",
+      "english": "Father",
+      "category": "family",
+      "pronunciation": "oh-sah",
+      "part_of_speech": "noun",
+      "example_edo": "Ọsa mwẹn ọ ya ọlọ.",
+      "example_english": "My father has gone to the market.",
+      "premium": false
+    },
+    {
+      "id": 18,
+      "edo": "Ọmọ",
+      "english": "Child / Son / Daughter",
+      "category": "family",
+      "pronunciation": "oh-moh",
+      "part_of_speech": "noun",
+      "example_edo": "Ọmọ mwẹn ọ dẹ.",
+      "example_english": "My child is well.",
+      "premium": false
+    },
+    {
+      "id": 19,
+      "edo": "Ẹnọ",
+      "english": "Elder sibling",
+      "category": "family",
+      "pronunciation": "eh-noh",
+      "part_of_speech": "noun",
+      "example_edo": "Ẹnọ mwẹn ọ de.",
+      "example_english": "My elder sibling is coming.",
+      "premium": false
+    },
+    {
+      "id": 20,
+      "edo": "Ọvbokhan",
+      "english": "Younger sibling / Young one",
+      "category": "family",
+      "pronunciation": "oh-vboh-kahn",
+      "part_of_speech": "noun",
+      "example_edo": "Ọvbokhan mwẹn ọ khian.",
+      "example_english": "My younger sibling is playing.",
+      "premium": false
+    },
+    {
+      "id": 21,
+      "edo": "Egbe",
+      "english": "Body",
+      "category": "body",
+      "pronunciation": "eh-gbeh",
+      "part_of_speech": "noun",
+      "example_edo": "Egbe mwẹn ọ dẹ.",
+      "example_english": "My body is well / I feel fine.",
+      "premium": false
+    },
+    {
+      "id": 22,
+      "edo": "Uhunmwun",
+      "english": "Head",
+      "category": "body",
+      "pronunciation": "oo-hwoon-mwoon",
+      "part_of_speech": "noun",
+      "example_edo": "Uhunmwun mwẹn ọ yẹn.",
+      "example_english": "My head aches.",
+      "premium": false
+    },
+    {
+      "id": 23,
+      "edo": "Aro",
+      "english": "Eye",
+      "category": "body",
+      "pronunciation": "ah-roh",
+      "part_of_speech": "noun",
+      "example_edo": "Aro mwẹn iran khọkpọ.",
+      "example_english": "My eyes are red.",
+      "premium": false
+    },
+    {
+      "id": 24,
+      "edo": "Eto",
+      "english": "Hair",
+      "category": "body",
+      "pronunciation": "eh-toh",
+      "part_of_speech": "noun",
+      "example_edo": "Eto ẹre ọ gberhan.",
+      "example_english": "Her hair is long.",
+      "premium": false
+    },
+    {
+      "id": 25,
+      "edo": "Ako",
+      "english": "Mouth",
+      "category": "body",
+      "pronunciation": "ah-koh",
+      "part_of_speech": "noun",
+      "example_edo": "Tẹ ako.",
+      "example_english": "Open your mouth.",
+      "premium": false
+    },
+    {
+      "id": 26,
+      "edo": "Ẹtẹ",
+      "english": "Ear",
+      "category": "body",
+      "pronunciation": "eh-teh",
+      "part_of_speech": "noun",
+      "example_edo": "Ẹtẹ mwẹn ọ rhie ẹvbo.",
+      "example_english": "My ears can hear well.",
+      "premium": false
+    },
+    {
+      "id": 27,
+      "edo": "Ukpo",
+      "english": "Back / Year",
+      "category": "body",
+      "pronunciation": "oo-kpoh",
+      "part_of_speech": "noun",
+      "example_edo": "Ukpo mwẹn ọ yẹn.",
+      "example_english": "My back hurts.",
+      "premium": false
+    },
+    {
+      "id": 28,
+      "edo": "Owẹ",
+      "english": "Leg / Foot",
+      "category": "body",
+      "pronunciation": "oh-weh",
+      "part_of_speech": "noun",
+      "example_edo": "Owẹ mwẹn ọ yẹn.",
+      "example_english": "My leg hurts.",
+      "premium": false
+    },
+    {
+      "id": 29,
+      "edo": "Ẹbẹ",
+      "english": "Hand / Arm",
+      "category": "body",
+      "pronunciation": "eh-beh",
+      "part_of_speech": "noun",
+      "example_edo": "Ẹbẹ mwẹn ọ gberhan.",
+      "example_english": "My hand is long.",
+      "premium": false
+    },
+    {
+      "id": 30,
+      "edo": "Agbọn",
+      "english": "Stomach / Abdomen",
+      "category": "body",
+      "pronunciation": "ah-gbohn",
+      "part_of_speech": "noun",
+      "example_edo": "Agbọn mwẹn ọ yẹn.",
+      "example_english": "My stomach hurts.",
+      "premium": false
+    },
+    {
+      "id": 31,
+      "edo": "Ẹwẹ",
+      "english": "Water",
+      "category": "food",
+      "pronunciation": "eh-weh",
+      "part_of_speech": "noun",
+      "example_edo": "Ma mwẹn ẹwẹ.",
+      "example_english": "Give me water.",
+      "premium": false
+    },
+    {
+      "id": 32,
+      "edo": "Ẹvbọ",
+      "english": "Food / Meal",
+      "category": "food",
+      "pronunciation": "eh-vboh",
+      "part_of_speech": "noun",
+      "example_edo": "Ẹvbọ ọ dẹ.",
+      "example_english": "The food is good.",
+      "premium": false
+    },
+    {
+      "id": 33,
+      "edo": "Ẹrhan",
+      "english": "Rice",
+      "category": "food",
+      "pronunciation": "eh-rhahn",
+      "part_of_speech": "noun",
+      "example_edo": "Ọ ya ẹrhan ẹmwẹn.",
+      "example_english": "She cooked rice.",
+      "premium": false
+    },
+    {
+      "id": 34,
+      "edo": "Akaro",
+      "english": "Palm oil",
+      "category": "food",
+      "pronunciation": "ah-kah-roh",
+      "part_of_speech": "noun",
+      "example_edo": "Akaro ọ dẹ iran.",
+      "example_english": "Palm oil is very good.",
+      "premium": false
+    },
+    {
+      "id": 35,
+      "edo": "Ẹrhiẹn",
+      "english": "Salt",
+      "category": "food",
+      "pronunciation": "eh-rhyen",
+      "part_of_speech": "noun",
+      "example_edo": "Ma ẹrhiẹn vbe ẹvbọ.",
+      "example_english": "Add salt to the food.",
+      "premium": false
+    },
+    {
+      "id": 36,
+      "edo": "Ọrọ",
+      "english": "Meat",
+      "category": "food",
+      "pronunciation": "oh-roh",
+      "part_of_speech": "noun",
+      "example_edo": "Ọrọ ọ dẹ.",
+      "example_english": "The meat is good.",
+      "premium": false
+    },
+    {
+      "id": 37,
+      "edo": "Ẹkhue",
+      "english": "Soup",
+      "category": "food",
+      "pronunciation": "eh-kweh",
+      "part_of_speech": "noun",
+      "example_edo": "Ẹkhue ọ dẹ iran.",
+      "example_english": "The soup is very tasty.",
+      "premium": false
+    },
+    {
+      "id": 38,
+      "edo": "Eki",
+      "english": "Yam",
+      "category": "food",
+      "pronunciation": "eh-kee",
+      "part_of_speech": "noun",
+      "example_edo": "Eki ọ kpolo.",
+      "example_english": "The yam is big.",
+      "premium": false
+    },
+    {
+      "id": 39,
+      "edo": "Avbiẹ",
+      "english": "Plantain",
+      "category": "food",
+      "pronunciation": "ah-vyeh",
+      "part_of_speech": "noun",
+      "example_edo": "Avbiẹ ọ ghale.",
+      "example_english": "The plantain is ripe.",
+      "premium": false
+    },
+    {
+      "id": 40,
+      "edo": "Ọsan",
+      "english": "Orange",
+      "category": "food",
+      "pronunciation": "oh-sahn",
+      "part_of_speech": "noun",
+      "example_edo": "Ọsan ọ ghale vbe ọ dẹ.",
+      "example_english": "The orange is ripe and sweet.",
+      "premium": false
+    },
+    {
+      "id": 41,
+      "edo": "Ọọn",
+      "english": "One",
+      "category": "numbers",
+      "pronunciation": "oh-ohn",
+      "part_of_speech": "numeral",
+      "example_edo": "Ọmọ ọọn ọ de.",
+      "example_english": "One child is coming.",
+      "premium": false
+    },
+    {
+      "id": 42,
+      "edo": "Ẹva",
+      "english": "Two",
+      "category": "numbers",
+      "pronunciation": "eh-vah",
+      "part_of_speech": "numeral",
+      "example_edo": "Ọmọ ẹva ọ de.",
+      "example_english": "Two children are coming.",
+      "premium": false
+    },
+    {
+      "id": 43,
+      "edo": "Ẹha",
+      "english": "Three",
+      "category": "numbers",
+      "pronunciation": "eh-hah",
+      "part_of_speech": "numeral",
+      "example_edo": "Ọmọ ẹha ọ de.",
+      "example_english": "Three children are coming.",
+      "premium": false
+    },
+    {
+      "id": 44,
+      "edo": "Ẹẹn",
+      "english": "Four",
+      "category": "numbers",
+      "pronunciation": "eh-ehn",
+      "part_of_speech": "numeral",
+      "example_edo": "Ẹẹn ọ de.",
+      "example_english": "Four are coming.",
+      "premium": false
+    },
+    {
+      "id": 45,
+      "edo": "Ẹgiẹ",
+      "english": "Five",
+      "category": "numbers",
+      "pronunciation": "eh-gyeh",
+      "part_of_speech": "numeral",
+      "example_edo": "Ẹgiẹ ọmọ ọ de.",
+      "example_english": "Five children are coming.",
+      "premium": false
+    },
+    {
+      "id": 46,
+      "edo": "Ẹẹha",
+      "english": "Six",
+      "category": "numbers",
+      "pronunciation": "eh-eh-hah",
+      "part_of_speech": "numeral",
+      "example_edo": "Ẹẹha.",
+      "example_english": "Six.",
+      "premium": false
+    },
+    {
+      "id": 47,
+      "edo": "Ẹihẹ",
+      "english": "Seven",
+      "category": "numbers",
+      "pronunciation": "eh-ee-heh",
+      "part_of_speech": "numeral",
+      "example_edo": "Ẹihẹ.",
+      "example_english": "Seven.",
+      "premium": false
+    },
+    {
+      "id": 48,
+      "edo": "Ẹrẹẹn",
+      "english": "Eight",
+      "category": "numbers",
+      "pronunciation": "eh-reh-ehn",
+      "part_of_speech": "numeral",
+      "example_edo": "Ẹrẹẹn.",
+      "example_english": "Eight.",
+      "premium": false
+    },
+    {
+      "id": 49,
+      "edo": "Ẹsẹn",
+      "english": "Nine",
+      "category": "numbers",
+      "pronunciation": "eh-sehn",
+      "part_of_speech": "numeral",
+      "example_edo": "Ẹsẹn.",
+      "example_english": "Nine.",
+      "premium": false
+    },
+    {
+      "id": 50,
+      "edo": "Ẹwọ",
+      "english": "Ten",
+      "category": "numbers",
+      "pronunciation": "eh-woh",
+      "part_of_speech": "numeral",
+      "example_edo": "Ẹwọ.",
+      "example_english": "Ten.",
+      "premium": false
+    },
+    {
+      "id": 51,
+      "edo": "Ọzọ",
+      "english": "Twenty",
+      "category": "numbers",
+      "pronunciation": "oh-zoh",
+      "part_of_speech": "numeral",
+      "example_edo": "Ọzọ ọmọ ọ de.",
+      "example_english": "Twenty children are coming.",
+      "premium": false
+    },
+    {
+      "id": 52,
+      "edo": "Ọzọ ne ima ọọn",
+      "english": "Thirty (Twenty plus ten)",
+      "category": "numbers",
+      "pronunciation": "oh-zoh neh ee-mah oh-ohn",
+      "part_of_speech": "numeral",
+      "example_edo": "Ọzọ ne ima ọọn.",
+      "example_english": "Thirty.",
+      "premium": true
+    },
+    {
+      "id": 53,
+      "edo": "Khiẹn",
+      "english": "Hundred",
+      "category": "numbers",
+      "pronunciation": "khyen",
+      "part_of_speech": "numeral",
+      "example_edo": "Khiẹn.",
+      "example_english": "One hundred.",
+      "premium": false
+    },
+    {
+      "id": 54,
+      "edo": "Ọkhọ",
+      "english": "Red / Orange",
+      "category": "colors",
+      "pronunciation": "oh-khoh",
+      "part_of_speech": "adjective",
+      "example_edo": "Ẹkhuẹ ọ ọkhọ.",
+      "example_english": "The cloth is red.",
+      "premium": false
+    },
+    {
+      "id": 55,
+      "edo": "Ẹzọ",
+      "english": "White",
+      "category": "colors",
+      "pronunciation": "eh-zoh",
+      "part_of_speech": "adjective",
+      "example_edo": "Ẹkhuẹ ọ ẹzọ.",
+      "example_english": "The cloth is white.",
+      "premium": false
+    },
+    {
+      "id": 56,
+      "edo": "Ẹkhọ",
+      "english": "Black",
+      "category": "colors",
+      "pronunciation": "eh-khoh",
+      "part_of_speech": "adjective",
+      "example_edo": "Ẹkhuẹ ọ ẹkhọ.",
+      "example_english": "The cloth is black.",
+      "premium": false
+    },
+    {
+      "id": 57,
+      "edo": "Odẹ",
+      "english": "Green / Blue",
+      "category": "colors",
+      "pronunciation": "oh-deh",
+      "part_of_speech": "adjective",
+      "example_edo": "Ẹkhuẹ ọ odẹ.",
+      "example_english": "The cloth is green/blue.",
+      "premium": false
+    },
+    {
+      "id": 58,
+      "edo": "Ẹdẹ",
+      "english": "Morning / Today",
+      "category": "time",
+      "pronunciation": "eh-deh",
+      "part_of_speech": "noun",
+      "example_edo": "Ẹdẹ ọ ya.",
+      "example_english": "Morning has come.",
+      "premium": false
+    },
+    {
+      "id": 59,
+      "edo": "Ẹdẹ vbe ẹdẹ",
+      "english": "Afternoon / Midday",
+      "category": "time",
+      "pronunciation": "eh-deh vbeh eh-deh",
+      "part_of_speech": "noun",
+      "example_edo": "Ẹdẹ vbe ẹdẹ ọ de.",
+      "example_english": "Afternoon has come.",
+      "premium": false
+    },
+    {
+      "id": 60,
+      "edo": "Ẹdẹ rua",
+      "english": "Evening",
+      "category": "time",
+      "pronunciation": "eh-deh roo-ah",
+      "part_of_speech": "noun",
+      "example_edo": "Ẹdẹ rua ọ de.",
+      "example_english": "Evening has come.",
+      "premium": false
+    },
+    {
+      "id": 61,
+      "edo": "Ẹrhẹn",
+      "english": "Night",
+      "category": "time",
+      "pronunciation": "eh-rhenn",
+      "part_of_speech": "noun",
+      "example_edo": "Ẹrhẹn ọ de.",
+      "example_english": "Night has come.",
+      "premium": false
+    },
+    {
+      "id": 62,
+      "edo": "Ẹdẹ ne iran",
+      "english": "Today",
+      "category": "time",
+      "pronunciation": "eh-deh neh ee-rahn",
+      "part_of_speech": "adverb",
+      "example_edo": "Ẹdẹ ne iran ọ dẹ.",
+      "example_english": "Today is good.",
+      "premium": false
+    },
+    {
+      "id": 63,
+      "edo": "Ẹdẹ ne a ya",
+      "english": "Yesterday",
+      "category": "time",
+      "pronunciation": "eh-deh neh ah yah",
+      "part_of_speech": "adverb",
+      "example_edo": "Ẹdẹ ne a ya ọ ghẹ dẹ.",
+      "example_english": "Yesterday was not good.",
+      "premium": false
+    },
+    {
+      "id": 64,
+      "edo": "Ẹdẹ ne ọ ya",
+      "english": "Tomorrow",
+      "category": "time",
+      "pronunciation": "eh-deh neh oh yah",
+      "part_of_speech": "adverb",
+      "example_edo": "Ẹdẹ ne ọ ya ima ya.",
+      "example_english": "Tomorrow we will go.",
+      "premium": false
+    },
+    {
+      "id": 65,
+      "edo": "Ya",
+      "english": "Go / Went",
+      "category": "actions",
+      "pronunciation": "yah",
+      "part_of_speech": "verb",
+      "example_edo": "Ọ ya ọlọ.",
+      "example_english": "He/She went to the market.",
+      "premium": false
+    },
+    {
+      "id": 66,
+      "edo": "De",
+      "english": "Come / Came",
+      "category": "actions",
+      "pronunciation": "deh",
+      "part_of_speech": "verb",
+      "example_edo": "Ọ de ima.",
+      "example_english": "He/She came to us.",
+      "premium": false
+    },
+    {
+      "id": 67,
+      "edo": "Rhie",
+      "english": "Take / Carry",
+      "category": "actions",
+      "pronunciation": "rhyeh",
+      "part_of_speech": "verb",
+      "example_edo": "Rhie iran.",
+      "example_english": "Take it.",
+      "premium": false
+    },
+    {
+      "id": 68,
+      "edo": "Ma",
+      "english": "Give",
+      "category": "actions",
+      "pronunciation": "mah",
+      "part_of_speech": "verb",
+      "example_edo": "Ma mwẹn.",
+      "example_english": "Give me.",
+      "premium": false
+    },
+    {
+      "id": 69,
+      "edo": "Rẹn",
+      "english": "Know / Understand",
+      "category": "actions",
+      "pronunciation": "rehn",
+      "part_of_speech": "verb",
+      "example_edo": "Ọ rẹn Ẹdo.",
+      "example_english": "He/She knows Edo language.",
+      "premium": false
+    },
+    {
+      "id": 70,
+      "edo": "Ya",
+      "english": "Speak / Say",
+      "category": "actions",
+      "pronunciation": "yah",
+      "part_of_speech": "verb",
+      "example_edo": "Ọ ya Ẹdo.",
+      "example_english": "He/She speaks Edo.",
+      "premium": false
+    },
+    {
+      "id": 71,
+      "edo": "Ẹmwẹn",
+      "english": "Cook",
+      "category": "actions",
+      "pronunciation": "eh-mwehn",
+      "part_of_speech": "verb",
+      "example_edo": "Iye ọ ya ẹvbọ ẹmwẹn.",
+      "example_english": "Mother cooked food.",
+      "premium": false
+    },
+    {
+      "id": 72,
+      "edo": "Gha",
+      "english": "Go (future)",
+      "category": "actions",
+      "pronunciation": "ghah",
+      "part_of_speech": "verb",
+      "example_edo": "Ọ gha ya.",
+      "example_english": "He/She is going to go.",
+      "premium": false
+    },
+    {
+      "id": 73,
+      "edo": "Khian",
+      "english": "Play / Dance",
+      "category": "actions",
+      "pronunciation": "kyahn",
+      "part_of_speech": "verb",
+      "example_edo": "Ọmọ ọ khian.",
+      "example_english": "The child is playing.",
+      "premium": false
+    },
+    {
+      "id": 74,
+      "edo": "Rrọọ",
+      "english": "Sit / Stay / Live",
+      "category": "actions",
+      "pronunciation": "rroh-oh",
+      "part_of_speech": "verb",
+      "example_edo": "Rrọọ ọrọ.",
+      "example_english": "Sit down.",
+      "premium": false
+    },
+    {
+      "id": 75,
+      "edo": "Ghẹ",
+      "english": "Not / No",
+      "category": "negation",
+      "pronunciation": "gheh",
+      "part_of_speech": "particle",
+      "example_edo": "Ọ ghẹ dẹ.",
+      "example_english": "It is not good.",
+      "premium": false
+    },
+    {
+      "id": 76,
+      "edo": "Ọse iran",
+      "english": "Thank you very much",
+      "category": "phrases",
+      "pronunciation": "oh-seh ee-rahn",
+      "part_of_speech": "phrase",
+      "example_edo": "Ọse iran vbe iran.",
+      "example_english": "Thank you very very much.",
+      "premium": false
+    },
+    {
+      "id": 77,
+      "edo": "Kpẹle ya miẹ ima",
+      "english": "Please help me",
+      "category": "phrases",
+      "pronunciation": "kpeh-leh yah myeh ee-mah",
+      "part_of_speech": "phrase",
+      "example_edo": "Kpẹle ya miẹ ima rẹn.",
+      "example_english": "Please help me understand.",
+      "premium": false
+    },
+    {
+      "id": 78,
+      "edo": "Ọ rẹn mwẹn ẹmwẹn",
+      "english": "I don't understand",
+      "category": "phrases",
+      "pronunciation": "oh rehn mwehn eh-mwehn",
+      "part_of_speech": "phrase",
+      "example_edo": "Ọ rẹn mwẹn ẹmwẹn.",
+      "example_english": "I don't understand.",
+      "premium": false
+    },
+    {
+      "id": 79,
+      "edo": "Ọlọ",
+      "english": "Market",
+      "category": "places",
+      "pronunciation": "oh-loh",
+      "part_of_speech": "noun",
+      "example_edo": "Ọ ya ọlọ.",
+      "example_english": "He/She went to the market.",
+      "premium": false
+    },
+    {
+      "id": 80,
+      "edo": "Ẹvbo",
+      "english": "House / Home",
+      "category": "places",
+      "pronunciation": "eh-vboh",
+      "part_of_speech": "noun",
+      "example_edo": "Rrọọ ẹvbo.",
+      "example_english": "Stay at home.",
+      "premium": false
+    },
+    {
+      "id": 81,
+      "edo": "Ọnọ",
+      "english": "Road / Path / Way",
+      "category": "places",
+      "pronunciation": "oh-noh",
+      "part_of_speech": "noun",
+      "example_edo": "Ọnọ ọ gherhe.",
+      "example_english": "The road is far.",
+      "premium": false
+    },
+    {
+      "id": 82,
+      "edo": "Ẹrọ",
+      "english": "River / Water body",
+      "category": "nature",
+      "pronunciation": "eh-roh",
+      "part_of_speech": "noun",
+      "example_edo": "Ẹrọ ọ ghẹ ẹwẹ.",
+      "example_english": "The river has no water (is dry).",
+      "premium": false
+    },
+    {
+      "id": 83,
+      "edo": "Ẹkhọe",
+      "english": "Bush / Forest / Farm",
+      "category": "nature",
+      "pronunciation": "eh-khoh-eh",
+      "part_of_speech": "noun",
+      "example_edo": "Ọ ya ẹkhọe.",
+      "example_english": "He/She went to the farm.",
+      "premium": false
+    },
+    {
+      "id": 84,
+      "edo": "Ẹki",
+      "english": "Tree / Wood",
+      "category": "nature",
+      "pronunciation": "eh-kee",
+      "part_of_speech": "noun",
+      "example_edo": "Ẹki ọ kpolo.",
+      "example_english": "The tree is big.",
+      "premium": false
+    },
+    {
+      "id": 85,
+      "edo": "Ọnẹn",
+      "english": "Rain",
+      "category": "nature",
+      "pronunciation": "oh-nehn",
+      "part_of_speech": "noun",
+      "example_edo": "Ọnẹn ọ de.",
+      "example_english": "Rain is coming.",
+      "premium": false
+    },
+    {
+      "id": 86,
+      "edo": "Ẹzẹ",
+      "english": "Sun",
+      "category": "nature",
+      "pronunciation": "eh-zeh",
+      "part_of_speech": "noun",
+      "example_edo": "Ẹzẹ ọ ya.",
+      "example_english": "The sun has risen.",
+      "premium": false
+    },
+    {
+      "id": 87,
+      "edo": "Agbado",
+      "english": "Corn / Maize",
+      "category": "food",
+      "pronunciation": "ah-gbah-doh",
+      "part_of_speech": "noun",
+      "example_edo": "Agbado ọ ghale.",
+      "example_english": "The corn is ripe.",
+      "premium": false
+    },
+    {
+      "id": 88,
+      "edo": "Ugbẹ",
+      "english": "Goat",
+      "category": "animals",
+      "pronunciation": "oo-gbeh",
+      "part_of_speech": "noun",
+      "example_edo": "Ugbẹ ọ de.",
+      "example_english": "The goat is coming.",
+      "premium": false
+    },
+    {
+      "id": 89,
+      "edo": "Ọkhọ",
+      "english": "Chicken / Fowl",
+      "category": "animals",
+      "pronunciation": "oh-khoh",
+      "part_of_speech": "noun",
+      "example_edo": "Ọkhọ ọ khian.",
+      "example_english": "The chicken is playing.",
+      "premium": false
+    },
+    {
+      "id": 90,
+      "edo": "Ẹvbọn",
+      "english": "Dog",
+      "category": "animals",
+      "pronunciation": "eh-vbohn",
+      "part_of_speech": "noun",
+      "example_edo": "Ẹvbọn mwẹn ọ dẹ.",
+      "example_english": "My dog is well.",
+      "premium": false
+    },
+    {
+      "id": 91,
+      "edo": "Ẹkpẹn",
+      "english": "Leopard",
+      "category": "animals",
+      "pronunciation": "eh-kpehn",
+      "part_of_speech": "noun",
+      "example_edo": "Ẹkpẹn ọ de vbe ẹkhọe.",
+      "example_english": "The leopard is in the bush.",
+      "premium": true
+    },
+    {
+      "id": 92,
+      "edo": "Ọrhẹn",
+      "english": "Crocodile",
+      "category": "animals",
+      "pronunciation": "oh-rhenn",
+      "part_of_speech": "noun",
+      "example_edo": "Ọrhẹn ọ rrọọ vbe ẹrọ.",
+      "example_english": "The crocodile lives in the river.",
+      "premium": true
+    },
+    {
+      "id": 93,
+      "edo": "Ọsọ",
+      "english": "Snake",
+      "category": "animals",
+      "pronunciation": "oh-soh",
+      "part_of_speech": "noun",
+      "example_edo": "Ọsọ ọ de vbe ẹkhọe.",
+      "example_english": "A snake is in the bush.",
+      "premium": false
+    },
+    {
+      "id": 94,
+      "edo": "Ọba",
+      "english": "King / Oba (traditional ruler)",
+      "category": "culture",
+      "pronunciation": "oh-bah",
+      "part_of_speech": "noun",
+      "example_edo": "Ọba ọ de.",
+      "example_english": "The Oba is coming.",
+      "premium": false
+    },
+    {
+      "id": 95,
+      "edo": "Ẹsẹn",
+      "english": "Chief / Title holder",
+      "category": "culture",
+      "pronunciation": "eh-sehn",
+      "part_of_speech": "noun",
+      "example_edo": "Ẹsẹn ọ de ode ọba.",
+      "example_english": "The chief went to the king's palace.",
+      "premium": true
+    },
+    {
+      "id": 96,
+      "edo": "Ẹdo",
+      "english": "Benin City (city of the Edo people)",
+      "category": "places",
+      "pronunciation": "eh-doh",
+      "part_of_speech": "proper noun",
+      "example_edo": "Ẹdo ọ dẹ.",
+      "example_english": "Benin City is good.",
+      "premium": false
+    },
+    {
+      "id": 97,
+      "edo": "Osanobua",
+      "english": "God (The Sustainer of the World)",
+      "category": "religion",
+      "pronunciation": "oh-sah-noh-boo-ah",
+      "part_of_speech": "proper noun",
+      "example_edo": "Osanobua ọ gha iran.",
+      "example_english": "God is very great.",
+      "premium": false
+    },
+    {
+      "id": 98,
+      "edo": "Ẹlẹe",
+      "english": "Prayer / Blessing",
+      "category": "religion",
+      "pronunciation": "eh-leh-eh",
+      "part_of_speech": "noun",
+      "example_edo": "Ẹlẹe ọ dẹ.",
+      "example_english": "The blessing is good.",
+      "premium": false
+    },
+    {
+      "id": 99,
+      "edo": "Erinmwinde",
+      "english": "God willing / If it is God's will",
+      "category": "religion",
+      "pronunciation": "eh-reen-mween-deh",
+      "part_of_speech": "phrase",
+      "example_edo": "Erinmwinde ima ya.",
+      "example_english": "God willing, we will go.",
+      "premium": false
+    },
+    {
+      "id": 100,
+      "edo": "Ọ gha iran",
+      "english": "It is very great / Excellent",
+      "category": "phrases",
+      "pronunciation": "oh ghah ee-rahn",
+      "part_of_speech": "phrase",
+      "example_edo": "Ọ gha iran vbe iran!",
+      "example_english": "It is excellent!",
+      "premium": false
+    },
+    {
+      "id": 101,
+      "edo": "Uhunmwun ọ gha ọre",
+      "english": "Be wise / Use your head",
+      "category": "proverbs",
+      "pronunciation": "oo-hwoon-mwoon oh ghah oh-reh",
+      "part_of_speech": "proverb",
+      "example_edo": "Uhunmwun ọ gha ọre, ọmwan ọ gha rrọọ.",
+      "example_english": "If you use your head wisely, you will survive.",
+      "premium": true
+    },
+    {
+      "id": 102,
+      "edo": "Ẹkpẹn ọ gha khẹ ẹhe ọre ọ gha gbe",
+      "english": "The leopard that roars in the night frightens the brave",
+      "category": "proverbs",
+      "pronunciation": "eh-kpehn oh ghah kheh eh-heh oh-reh oh ghah gbeh",
+      "part_of_speech": "proverb",
+      "example_edo": "Ẹkpẹn ọ gha khẹ ẹhe, ọre ọ gha gbe ọmwan ọghe iran.",
+      "example_english": "A person's reputation speaks for them even before they arrive.",
+      "premium": true
+    },
+    {
+      "id": 103,
+      "edo": "Ọmwan ọ gha ya ọlọ ọ gha de otẹ",
+      "english": "One who goes to the market will return with news",
+      "category": "proverbs",
+      "pronunciation": "oh-mwahn oh ghah yah oh-loh oh ghah deh oh-teh",
+      "part_of_speech": "proverb",
+      "example_edo": "Ọmwan ọ gha ya ọlọ ọ gha de otẹ.",
+      "example_english": "Experience brings wisdom.",
+      "premium": true
+    },
+    {
+      "id": 104,
+      "edo": "Agbọn",
+      "english": "World / Earth / Universe",
+      "category": "nature",
+      "pronunciation": "ah-gbohn",
+      "part_of_speech": "noun",
+      "example_edo": "Agbọn ọ kpolo.",
+      "example_english": "The world is big.",
+      "premium": false
+    },
+    {
+      "id": 105,
+      "edo": "Ẹkhuẹ",
+      "english": "Cloth / Fabric",
+      "category": "objects",
+      "pronunciation": "eh-kweh",
+      "part_of_speech": "noun",
+      "example_edo": "Ẹkhuẹ ọ dẹ.",
+      "example_english": "The cloth is beautiful.",
+      "premium": false
+    },
+    {
+      "id": 106,
+      "edo": "Ọkpan",
+      "english": "Plate / Dish",
+      "category": "objects",
+      "pronunciation": "oh-kpahn",
+      "part_of_speech": "noun",
+      "example_edo": "Rhie ọkpan ma mwẹn ẹvbọ.",
+      "example_english": "Take the plate and give me food.",
+      "premium": false
+    },
+    {
+      "id": 107,
+      "edo": "Ọzẹ",
+      "english": "Knife",
+      "category": "objects",
+      "pronunciation": "oh-zeh",
+      "part_of_speech": "noun",
+      "example_edo": "Rhie ọzẹ ẹmwẹn.",
+      "example_english": "Use the knife to cut.",
+      "premium": false
+    },
+    {
+      "id": 108,
+      "edo": "Ẹhọ",
+      "english": "Money",
+      "category": "objects",
+      "pronunciation": "eh-hoh",
+      "part_of_speech": "noun",
+      "example_edo": "Ẹhọ ọ ghẹ rrọọ.",
+      "example_english": "There is no money.",
+      "premium": false
+    },
+    {
+      "id": 109,
+      "edo": "Uhunmwun ẹki",
+      "english": "Top of tree / Treetop",
+      "category": "nature",
+      "pronunciation": "oo-hwoon-mwoon eh-kee",
+      "part_of_speech": "noun phrase",
+      "example_edo": "Ẹnyẹ ọ rrọọ uhunmwun ẹki.",
+      "example_english": "The bird sits on top of the tree.",
+      "premium": false
+    },
+    {
+      "id": 110,
+      "edo": "Ẹnyẹ",
+      "english": "Bird",
+      "category": "animals",
+      "pronunciation": "eh-nyeh",
+      "part_of_speech": "noun",
+      "example_edo": "Ẹnyẹ ọ ya ọhọ.",
+      "example_english": "The bird flew away.",
+      "premium": false
+    },
+    {
+      "id": 111,
+      "edo": "Ọhọ",
+      "english": "Sky / Up / Above",
+      "category": "nature",
+      "pronunciation": "oh-hoh",
+      "part_of_speech": "noun",
+      "example_edo": "Ọ ya ọhọ.",
+      "example_english": "It went up to the sky.",
+      "premium": false
+    },
+    {
+      "id": 112,
+      "edo": "Ẹre ọ dẹ",
+      "english": "It is good / It is alright",
+      "category": "phrases",
+      "pronunciation": "eh-reh oh deh",
+      "part_of_speech": "phrase",
+      "example_edo": "Ẹre ọ dẹ, ima ya.",
+      "example_english": "It is alright, let us go.",
+      "premium": false
+    },
+    {
+      "id": 113,
+      "edo": "Ọ khian iran",
+      "english": "It is very funny / amusing",
+      "category": "emotions",
+      "pronunciation": "oh kyahn ee-rahn",
+      "part_of_speech": "phrase",
+      "example_edo": "Ọ khian iran vbe iran!",
+      "example_english": "It is very funny!",
+      "premium": false
+    },
+    {
+      "id": 114,
+      "edo": "Ọ yẹn mwẹn",
+      "english": "It hurts me / I am in pain",
+      "category": "emotions",
+      "pronunciation": "oh yehn mwehn",
+      "part_of_speech": "phrase",
+      "example_edo": "Ọ yẹn mwẹn vbe iran.",
+      "example_english": "It hurts me a lot.",
+      "premium": false
+    },
+    {
+      "id": 115,
+      "edo": "Ọ vbi mwẹn",
+      "english": "I am happy / I love it",
+      "category": "emotions",
+      "pronunciation": "oh vbee mwehn",
+      "part_of_speech": "phrase",
+      "example_edo": "Ọ vbi mwẹn vbe iran.",
+      "example_english": "I love it very much.",
+      "premium": false
+    },
+    {
+      "id": 116,
+      "edo": "Ọ gha yẹn",
+      "english": "It is painful / difficult",
+      "category": "emotions",
+      "pronunciation": "oh ghah yehn",
+      "part_of_speech": "phrase",
+      "example_edo": "Ọ gha yẹn iran.",
+      "example_english": "It is very painful.",
+      "premium": false
+    },
+    {
+      "id": 117,
+      "edo": "Emwin",
+      "english": "Thing / Matter / Issue",
+      "category": "objects",
+      "pronunciation": "eh-mween",
+      "part_of_speech": "noun",
+      "example_edo": "Emwin iran ọ de.",
+      "example_english": "A big matter has come.",
+      "premium": false
+    },
+    {
+      "id": 118,
+      "edo": "Ọghe",
+      "english": "Of / Belonging to",
+      "category": "grammar",
+      "pronunciation": "oh-gheh",
+      "part_of_speech": "preposition",
+      "example_edo": "Ẹvbo ọghe mwẹn.",
+      "example_english": "My house.",
+      "premium": false
+    },
+    {
+      "id": 119,
+      "edo": "Mwẹn",
+      "english": "My / Me (possessive)",
+      "category": "grammar",
+      "pronunciation": "mwehn",
+      "part_of_speech": "pronoun",
+      "example_edo": "Ọmọ mwẹn ọ dẹ.",
+      "example_english": "My child is well.",
+      "premium": false
+    },
+    {
+      "id": 120,
+      "edo": "Ẹre",
+      "english": "His / Her / Its (possessive)",
+      "category": "grammar",
+      "pronunciation": "eh-reh",
+      "part_of_speech": "pronoun",
+      "example_edo": "Ẹvbo ẹre ọ kpolo.",
+      "example_english": "His/Her house is big.",
+      "premium": false
+    },
+    {
+      "id": 121,
+      "edo": "Ọ gha gbe",
+      "english": "It is powerful / It is strong",
+      "category": "phrases",
+      "pronunciation": "oh ghah gbeh",
+      "part_of_speech": "phrase",
+      "example_edo": "Ọmwan na ọ gha gbe.",
+      "example_english": "This person is very strong.",
+      "premium": false
+    },
+    {
+      "id": 122,
+      "edo": "Ọ kpolo",
+      "english": "It is big / large",
+      "category": "descriptions",
+      "pronunciation": "oh kpoh-loh",
+      "part_of_speech": "adjective phrase",
+      "example_edo": "Ẹvbo ọ kpolo.",
+      "example_english": "The house is big.",
+      "premium": false
+    },
+    {
+      "id": 123,
+      "edo": "Ọ vbiẹ",
+      "english": "It is small / little",
+      "category": "descriptions",
+      "pronunciation": "oh vbyeh",
+      "part_of_speech": "adjective phrase",
+      "example_edo": "Ọmọ ọ vbiẹ.",
+      "example_english": "The child is small.",
+      "premium": false
+    },
+    {
+      "id": 124,
+      "edo": "Ọ gberhan",
+      "english": "It is long / tall",
+      "category": "descriptions",
+      "pronunciation": "oh gbeh-rhahn",
+      "part_of_speech": "adjective phrase",
+      "example_edo": "Ọmwan na ọ gberhan.",
+      "example_english": "This person is tall.",
+      "premium": false
+    },
+    {
+      "id": 125,
+      "edo": "Ọ ghẹ dẹ",
+      "english": "It is not good / bad",
+      "category": "descriptions",
+      "pronunciation": "oh gheh deh",
+      "part_of_speech": "adjective phrase",
+      "example_edo": "Emwin na ọ ghẹ dẹ.",
+      "example_english": "This thing is not good.",
+      "premium": false
+    },
+    {
+      "id": 126,
+      "edo": "Ọ dẹ iran",
+      "english": "It is very good / excellent",
+      "category": "descriptions",
+      "pronunciation": "oh deh ee-rahn",
+      "part_of_speech": "phrase",
+      "example_edo": "Ẹvbọ ọ dẹ iran!",
+      "example_english": "The food is excellent!",
+      "premium": false
+    },
+    {
+      "id": 127,
+      "edo": "Ọ khọkpọ",
+      "english": "It is red / angry",
+      "category": "descriptions",
+      "pronunciation": "oh khoh-kpoh",
+      "part_of_speech": "adjective phrase",
+      "example_edo": "Aro ẹre ọ khọkpọ.",
+      "example_english": "His/Her eyes are red (angry).",
+      "premium": false
+    },
+    {
+      "id": 128,
+      "edo": "Ọ ghale",
+      "english": "It is ripe / ready",
+      "category": "descriptions",
+      "pronunciation": "oh ghah-leh",
+      "part_of_speech": "adjective phrase",
+      "example_edo": "Avbiẹ ọ ghale.",
+      "example_english": "The plantain is ripe.",
+      "premium": false
+    },
+    {
+      "id": 129,
+      "edo": "Ọmwan na",
+      "english": "This person",
+      "category": "phrases",
+      "pronunciation": "oh-mwahn nah",
+      "part_of_speech": "noun phrase",
+      "example_edo": "Ọmwan na ọ ya ọlọ.",
+      "example_english": "This person went to the market.",
+      "premium": false
+    },
+    {
+      "id": 130,
+      "edo": "Emwin na",
+      "english": "This thing",
+      "category": "phrases",
+      "pronunciation": "eh-mween nah",
+      "part_of_speech": "noun phrase",
+      "example_edo": "Emwin na ọ dẹ.",
+      "example_english": "This thing is good.",
+      "premium": false
+    },
+    {
+      "id": 131,
+      "edo": "Ọ rhie nọ",
+      "english": "Take it / Here it is",
+      "category": "phrases",
+      "pronunciation": "oh rhyeh noh",
+      "part_of_speech": "phrase",
+      "example_edo": "Ọ rhie nọ, ọse.",
+      "example_english": "Here you go, thank you.",
+      "premium": false
+    },
+    {
+      "id": 132,
+      "edo": "Ẹghẹ",
+      "english": "Time / Hour",
+      "category": "time",
+      "pronunciation": "eh-gheh",
+      "part_of_speech": "noun",
+      "example_edo": "Ẹghẹ ọ ghẹ rrọọ.",
+      "example_english": "There is no time.",
+      "premium": false
+    },
+    {
+      "id": 133,
+      "edo": "Ẹghẹ iran",
+      "english": "A long time / Many hours",
+      "category": "time",
+      "pronunciation": "eh-gheh ee-rahn",
+      "part_of_speech": "noun phrase",
+      "example_edo": "Ẹghẹ iran ọ ya.",
+      "example_english": "A long time has passed.",
+      "premium": false
+    },
+    {
+      "id": 134,
+      "edo": "Ọ ghẹ rrọọ",
+      "english": "It is not there / There is none",
+      "category": "phrases",
+      "pronunciation": "oh gheh rroh-oh",
+      "part_of_speech": "phrase",
+      "example_edo": "Ẹwẹ ọ ghẹ rrọọ.",
+      "example_english": "There is no water.",
+      "premium": false
+    },
+    {
+      "id": 135,
+      "edo": "Ọ rrọọ",
+      "english": "It is there / There is some",
+      "category": "phrases",
+      "pronunciation": "oh rroh-oh",
+      "part_of_speech": "phrase",
+      "example_edo": "Ẹhọ ọ rrọọ.",
+      "example_english": "There is money.",
+      "premium": false
+    },
+    {
+      "id": 136,
+      "edo": "Okoọ",
+      "english": "Husband",
+      "category": "family",
+      "pronunciation": "oh-koh-oh",
+      "part_of_speech": "noun",
+      "example_edo": "Okoọ mwẹn ọ ya.",
+      "example_english": "My husband has gone.",
+      "premium": false
+    },
+    {
+      "id": 137,
+      "edo": "Iyẹ",
+      "english": "Wife",
+      "category": "family",
+      "pronunciation": "ee-yeh",
+      "part_of_speech": "noun",
+      "example_edo": "Iyẹ mwẹn ọ dẹ.",
+      "example_english": "My wife is well.",
+      "premium": false
+    },
+    {
+      "id": 138,
+      "edo": "Ẹrẹn",
+      "english": "Brother",
+      "category": "family",
+      "pronunciation": "eh-rehn",
+      "part_of_speech": "noun",
+      "example_edo": "Ẹrẹn mwẹn ọ de.",
+      "example_english": "My brother is coming.",
+      "premium": false
+    },
+    {
+      "id": 139,
+      "edo": "Ọnọ",
+      "english": "Sister",
+      "category": "family",
+      "pronunciation": "oh-noh",
+      "part_of_speech": "noun",
+      "example_edo": "Ọnọ mwẹn ọ dẹ.",
+      "example_english": "My sister is well.",
+      "premium": false
+    },
+    {
+      "id": 140,
+      "edo": "Etin",
+      "english": "Grandmother",
+      "category": "family",
+      "pronunciation": "eh-teen",
+      "part_of_speech": "noun",
+      "example_edo": "Etin mwẹn ọ iran.",
+      "example_english": "My grandmother is old.",
+      "premium": false
+    },
+    {
+      "id": 141,
+      "edo": "Etin osa",
+      "english": "Grandfather",
+      "category": "family",
+      "pronunciation": "eh-teen oh-sah",
+      "part_of_speech": "noun",
+      "example_edo": "Etin osa mwẹn ọ ya.",
+      "example_english": "My grandfather has passed.",
+      "premium": false
+    },
+    {
+      "id": 142,
+      "edo": "Otẹ",
+      "english": "News / Story / Message",
+      "category": "objects",
+      "pronunciation": "oh-teh",
+      "part_of_speech": "noun",
+      "example_edo": "Otẹ ọ de.",
+      "example_english": "News has come.",
+      "premium": false
+    },
+    {
+      "id": 143,
+      "edo": "Ọ gha ya",
+      "english": "Let's go / We should go",
+      "category": "phrases",
+      "pronunciation": "oh ghah yah",
+      "part_of_speech": "phrase",
+      "example_edo": "Ọ gha ya, ẹghẹ ọ ghẹ rrọọ.",
+      "example_english": "Let's go, there is no time.",
+      "premium": false
+    },
+    {
+      "id": 144,
+      "edo": "Ọsisi",
+      "english": "Church / Meeting place",
+      "category": "places",
+      "pronunciation": "oh-see-see",
+      "part_of_speech": "noun",
+      "example_edo": "Ima ya ọsisi.",
+      "example_english": "We went to church.",
+      "premium": false
+    },
+    {
+      "id": 145,
+      "edo": "Ẹwẹ ẹlọn",
+      "english": "Sea water / Ocean",
+      "category": "nature",
+      "pronunciation": "eh-weh eh-lohn",
+      "part_of_speech": "noun phrase",
+      "example_edo": "Ẹwẹ ẹlọn ọ kpolo.",
+      "example_english": "The ocean is very big.",
+      "premium": true
+    },
+    {
+      "id": 146,
+      "edo": "Ẹlọn",
+      "english": "Sea / Ocean",
+      "category": "nature",
+      "pronunciation": "eh-lohn",
+      "part_of_speech": "noun",
+      "example_edo": "Ọ ya ẹlọn.",
+      "example_english": "He/She went to the sea.",
+      "premium": true
+    },
+    {
+      "id": 147,
+      "edo": "Ẹvbọn",
+      "english": "Dog (alternate form)",
+      "category": "animals",
+      "pronunciation": "eh-vbohn",
+      "part_of_speech": "noun",
+      "example_edo": "Ẹvbọn ọ rẹrẹ.",
+      "example_english": "The dog is barking.",
+      "premium": false
+    },
+    {
+      "id": 148,
+      "edo": "Ọkpa",
+      "english": "Alone / Only / Single",
+      "category": "descriptions",
+      "pronunciation": "oh-kpah",
+      "part_of_speech": "adjective",
+      "example_edo": "Ọ rrọọ ọkpa.",
+      "example_english": "He/She is alone.",
+      "premium": false
+    },
+    {
+      "id": 149,
+      "edo": "Ima kẹre",
+      "english": "Together / All of us",
+      "category": "phrases",
+      "pronunciation": "ee-mah keh-reh",
+      "part_of_speech": "phrase",
+      "example_edo": "Ima kẹre ya.",
+      "example_english": "We all went together.",
+      "premium": false
+    },
+    {
+      "id": 150,
+      "edo": "Ọ gha miẹ",
+      "english": "Find / Found",
+      "category": "actions",
+      "pronunciation": "oh ghah myeh",
+      "part_of_speech": "verb",
+      "example_edo": "Ọ gha miẹ ẹhọ.",
+      "example_english": "He/She found money.",
+      "premium": false
+    }
+  ],
+  "phrasebook": [
+    {
+      "category": "Emergency",
+      "phrases": [
+        {
+          "edo": "Yọ mwẹn!",
+          "english": "Help me!",
+          "pronunciation": "yoh mwehn"
+        },
+        {
+          "edo": "Ọ yẹn mwẹn vbe iran!",
+          "english": "I am in great pain!",
+          "pronunciation": "oh yehn mwehn vbeh ee-rahn"
+        },
+        {
+          "edo": "Ya miẹ dokita.",
+          "english": "Get a doctor.",
+          "pronunciation": "yah myeh doh-kee-tah"
+        },
+        {
+          "edo": "Ọ vẹvẹ!",
+          "english": "Fire! / Emergency!",
+          "pronunciation": "oh veh-veh"
+        }
+      ]
+    },
+    {
+      "category": "Shopping",
+      "phrases": [
+        {
+          "edo": "Ẹhọ eghẹ iran?",
+          "english": "How much does it cost?",
+          "pronunciation": "eh-hoh eh-gheh ee-rahn"
+        },
+        {
+          "edo": "Ọ gha kpolo vbe iran.",
+          "english": "It is too expensive.",
+          "pronunciation": "oh ghah kpoh-loh vbeh ee-rahn"
+        },
+        {
+          "edo": "Ma mwẹn ọlọ.",
+          "english": "Give me a discount / bargain.",
+          "pronunciation": "mah mwehn oh-loh"
+        },
+        {
+          "edo": "Ọ dẹ. Ọ rhie nọ.",
+          "english": "Good. I will take it.",
+          "pronunciation": "oh deh. oh rhyeh noh."
+        }
+      ]
+    },
+    {
+      "category": "Directions",
+      "phrases": [
+        {
+          "edo": "Ọnọ de ọlọ iran?",
+          "english": "Which way is the market?",
+          "pronunciation": "oh-noh deh oh-loh ee-rahn"
+        },
+        {
+          "edo": "Ọ gherhe.",
+          "english": "It is far.",
+          "pronunciation": "oh gheh-rheh"
+        },
+        {
+          "edo": "Ọ ghẹ gherhe.",
+          "english": "It is not far.",
+          "pronunciation": "oh gheh gheh-rheh"
+        },
+        {
+          "edo": "Ya otọ.",
+          "english": "Go straight.",
+          "pronunciation": "yah oh-toh"
+        },
+        {
+          "edo": "Fua osi.",
+          "english": "Turn left.",
+          "pronunciation": "foo-ah oh-see"
+        },
+        {
+          "edo": "Fua otọ.",
+          "english": "Turn right.",
+          "pronunciation": "foo-ah oh-toh"
+        }
+      ]
+    },
+    {
+      "category": "Social",
+      "phrases": [
+        {
+          "edo": "Izẹ mwẹn ọ a?",
+          "english": "What is your name?",
+          "pronunciation": "ee-zeh mwehn oh ah"
+        },
+        {
+          "edo": "Izẹ mwẹn ọ Efe.",
+          "english": "My name is Efe.",
+          "pronunciation": "ee-zeh mwehn oh eh-feh"
+        },
+        {
+          "edo": "Ọ kpaọ de Ẹdo?",
+          "english": "Are you from Edo?",
+          "pronunciation": "oh kpah-oh deh eh-doh"
+        },
+        {
+          "edo": "Ọọ, ọ de Ẹdo.",
+          "english": "Yes, I am from Edo.",
+          "pronunciation": "oh-oh, oh deh eh-doh"
+        },
+        {
+          "edo": "Ọ vbi mwẹn ọ miẹ ẹyin.",
+          "english": "I am happy to meet you.",
+          "pronunciation": "oh vbee mwehn oh myeh eh-yeen"
+        }
+      ]
+    },
+    {
+      "category": "At the Hospital",
+      "phrases": [
+        {
+          "edo": "Egbe mwẹn ọ ghẹ dẹ.",
+          "english": "My body is not well / I am sick.",
+          "pronunciation": "eh-gbeh mwehn oh gheh deh"
+        },
+        {
+          "edo": "Uhunmwun mwẹn ọ yẹn.",
+          "english": "My head hurts.",
+          "pronunciation": "oo-hwoon-mwoon mwehn oh yehn"
+        },
+        {
+          "edo": "Agbọn mwẹn ọ yẹn.",
+          "english": "My stomach hurts.",
+          "pronunciation": "ah-gbohn mwehn oh yehn"
+        },
+        {
+          "edo": "Ọ dẹ vbe iran.",
+          "english": "It is very painful.",
+          "pronunciation": "oh deh vbeh ee-rahn"
+        }
+      ]
+    }
+  ],
+  "proverbs": [
+    {
+      "id": "p1",
+      "edo": "Ọmwan ọ gha rẹn ẹre, ọre gha miẹ ẹvbo ẹre.",
+      "english": "He who knows himself will find his way.",
+      "theme": "self-knowledge",
+      "premium": false
+    },
+    {
+      "id": "p2",
+      "edo": "Ẹwẹ ọ ghẹ rrọọ vbe ọọn ne ọ ẹmwẹn.",
+      "english": "Water does not stay in a pot that is broken.",
+      "theme": "character",
+      "premium": false
+    },
+    {
+      "id": "p3",
+      "edo": "Ọba ọ gha yan ọ gha ya, ọmwan ọ gha rẹn ẹre ne ọ gha miẹ.",
+      "english": "When the king gives a command, those who understand will benefit.",
+      "theme": "wisdom",
+      "premium": true
+    },
+    {
+      "id": "p4",
+      "edo": "Ima kẹre iran, ẹhọ iran ọ de.",
+      "english": "When we are united, great prosperity comes.",
+      "theme": "unity",
+      "premium": false
+    },
+    {
+      "id": "p5",
+      "edo": "Ọmwan ọ ghẹ rẹn iye ẹre, ọ ghẹ rẹn egbe ẹre.",
+      "english": "He who does not know his mother does not know himself.",
+      "theme": "heritage",
+      "premium": true
+    },
+    {
+      "id": "p6",
+      "edo": "Ẹkhọe ọ kpolo, ugbẹ ọ ghẹ khuẹn.",
+      "english": "In a large forest, a goat does not get lost.",
+      "theme": "community",
+      "premium": false
+    },
+    {
+      "id": "p7",
+      "edo": "Ẹghẹ ọ ya, ọmwan gha miẹ irẹn.",
+      "english": "As time passes, one finds truth.",
+      "theme": "patience",
+      "premium": true
+    },
+    {
+      "id": "p8",
+      "edo": "Ọmwan ọ gha ya ọlọ vbe ẹrhẹn ọ gha de otẹ.",
+      "english": "He who goes to the market at night returns with news.",
+      "theme": "courage",
+      "premium": false
+    }
+  ],
+  "lessons": [
+    {
+      "id": "L01",
+      "title": "Basic Greetings",
+      "level": "beginner",
+      "word_ids": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "description": "Learn how to greet people in Edo at different times of day.",
+      "premium": false
+    },
+    {
+      "id": "L02",
+      "title": "Pronouns and Basic Sentences",
+      "level": "beginner",
+      "word_ids": [11, 12, 13, 14, 15, 118, 119, 120],
+      "description": "Learn Edo pronouns and how to form simple sentences.",
+      "premium": false
+    },
+    {
+      "id": "L03",
+      "title": "Family Members",
+      "level": "beginner",
+      "word_ids": [16, 17, 18, 19, 20, 136, 137, 138, 139, 140, 141],
+      "description": "Learn vocabulary for family relationships in Edo culture.",
+      "premium": false
+    },
+    {
+      "id": "L04",
+      "title": "The Body",
+      "level": "beginner",
+      "word_ids": [21, 22, 23, 24, 25, 26, 27, 28, 29, 30],
+      "description": "Learn the names of body parts in Edo.",
+      "premium": false
+    },
+    {
+      "id": "L05",
+      "title": "Food and Drink",
+      "level": "beginner",
+      "word_ids": [31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 87],
+      "description": "Learn Edo words for common foods, drinks, and ingredients.",
+      "premium": false
+    },
+    {
+      "id": "L06",
+      "title": "Numbers 1-20",
+      "level": "beginner",
+      "word_ids": [41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 53],
+      "description": "Count in Edo from one to twenty and beyond.",
+      "premium": false
+    },
+    {
+      "id": "L07",
+      "title": "Colors",
+      "level": "beginner",
+      "word_ids": [54, 55, 56, 57],
+      "description": "Learn color words in Edo.",
+      "premium": false
+    },
+    {
+      "id": "L08",
+      "title": "Time Expressions",
+      "level": "intermediate",
+      "word_ids": [58, 59, 60, 61, 62, 63, 64, 132, 133],
+      "description": "Talk about time, days, and schedules in Edo.",
+      "premium": false
+    },
+    {
+      "id": "L09",
+      "title": "Essential Verbs",
+      "level": "intermediate",
+      "word_ids": [65, 66, 67, 68, 69, 70, 71, 72, 73, 74],
+      "description": "Master the most common action words in Edo.",
+      "premium": false
+    },
+    {
+      "id": "L10",
+      "title": "Describing Things",
+      "level": "intermediate",
+      "word_ids": [122, 123, 124, 125, 126, 127, 128],
+      "description": "Learn adjectives and how to describe size, color, and quality.",
+      "premium": false
+    },
+    {
+      "id": "L11",
+      "title": "Animals",
+      "level": "intermediate",
+      "word_ids": [88, 89, 90, 91, 92, 93, 110, 147],
+      "description": "Learn animal names important to Edo culture.",
+      "premium": true
+    },
+    {
+      "id": "L12",
+      "title": "Edo Proverbs and Wisdom",
+      "level": "advanced",
+      "word_ids": [101, 102, 103],
+      "description": "Explore the rich proverb tradition of the Edo people.",
+      "premium": true
+    },
+    {
+      "id": "L13",
+      "title": "Religion and Culture",
+      "level": "advanced",
+      "word_ids": [94, 95, 96, 97, 98, 99],
+      "description": "Understand Edo spiritual and cultural vocabulary.",
+      "premium": true
+    }
+  ]
+}
