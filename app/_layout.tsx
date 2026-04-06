@@ -66,6 +66,13 @@ export default function RootLayout() {
             headerTintColor: '#c9a227',
           }}
         />
+        <Stack.Screen
+          name="modal/settings"
+          options={{
+            presentation: 'modal',
+            headerShown: false,
+          }}
+        />
         <Stack.Screen name="+not-found" />
       </Stack>
       <StatusBar style="light" />

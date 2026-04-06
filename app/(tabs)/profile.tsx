@@ -124,6 +124,13 @@ export default function ProfileScreen() {
       <ScrollView showsVerticalScrollIndicator={false}>
         {/* Profile header */}
         <LinearGradient colors={[NAVY, NAVY2]} style={styles.profileHeader}>
+          <TouchableOpacity
+            style={styles.settingsGear}
+            onPress={() => router.push('/modal/settings')}
+            hitSlop={{ top: 10, right: 10, bottom: 10, left: 10 }}
+          >
+            <Ionicons name="settings-outline" size={22} color={GRAY} />
+          </TouchableOpacity>
           <View style={styles.avatarCircle}>
             <Text style={styles.avatarText}>{initials}</Text>
           </View>
@@ -223,10 +230,11 @@ export default function ProfileScreen() {
             <View style={styles.card}>
               <Text style={styles.cardTitle}>Account</Text>
               {[
-                { icon: 'notifications-outline', label: 'Notifications', onPress: () => {} },
-                { icon: 'shield-outline', label: 'Privacy & Security', onPress: () => {} },
-                { icon: 'help-circle-outline', label: 'Help & Support', onPress: () => {} },
-                { icon: 'information-circle-outline', label: 'About BiZY', onPress: () => {} },
+                { icon: 'settings-outline', label: 'Settings', onPress: () => router.push('/modal/settings') },
+                { icon: 'notifications-outline', label: 'Notifications', onPress: () => router.push('/modal/settings') },
+                { icon: 'shield-outline', label: 'Privacy & Security', onPress: () => router.push('/modal/settings') },
+                { icon: 'help-circle-outline', label: 'Help & Support', onPress: () => router.push('/modal/settings') },
+                { icon: 'information-circle-outline', label: 'About BiZY', onPress: () => router.push('/modal/settings') },
               ].map((item) => (
                 <TouchableOpacity
                   key={item.label}
@@ -374,6 +382,12 @@ const styles = StyleSheet.create({
     padding: 24,
     alignItems: 'center',
     gap: 8,
+  },
+  settingsGear: {
+    position: 'absolute',
+    top: 16,
+    right: 16,
+    zIndex: 10,
   },
   avatarCircle: {
     width: 80,
